@@ -1,0 +1,35 @@
+name: vcftools
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - bzip2=1.0.8=h1de35cc_0
+  - c-ares=1.17.1=h9ed2024_0
+  - ca-certificates=2021.10.26=hecd8cb5_2
+  - certifi=2021.10.8=py39h6e9494a_1
+  - krb5=1.19.2=hcd88c3b_0
+  - libcurl=7.78.0=hb8e4fae_0
+  - libcxx=12.0.0=h2f01273_0
+  - libdeflate=1.7=h9ed2024_5
+  - libedit=3.1.20210910=hca72f7f_0
+  - libev=4.33=h9ed2024_1
+  - libffi=3.3=hb1e8313_2
+  - libnghttp2=1.46.0=ha29bfda_0
+  - libssh2=1.9.0=ha12b0ac_1
+  - ncurses=6.3=hca72f7f_2
+  - openssl=1.1.1l=h0d85af4_0
+  - pip=21.2.4=py39hecd8cb5_0
+  - pysam=0.16.0.1=py39h56703ae_3
+  - python=3.9.7=h88f2d9e_1
+  - python_abi=3.9=2_cp39
+  - pyvcf=0.6.8=py39hde42818_1002
+  - readline=8.1=h9ed2024_0
+  - setuptools=58.0.4=py39hecd8cb5_0
+  - sqlite=3.36.0=hce871da_0
+  - tk=8.6.11=h7bc2e8c_0
+  - tzdata=2021e=hda174b7_0
+  - wheel=0.37.0=pyhd3eb1b0_1
+  - xz=5.2.5=h1de35cc_0
+  - zlib=1.2.11=h1de35cc_3
+prefix: /Users/alex/opt/anaconda3/envs/vcftools
